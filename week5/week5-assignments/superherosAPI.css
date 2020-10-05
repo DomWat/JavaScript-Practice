@@ -1,0 +1,20 @@
+#container ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+    text-align: center;
+}
+
+li {
+    margin: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+#detailedMovie {
+    background-color: aqua;
+    text-align: center;
+}
